@@ -1,0 +1,4 @@
+abc 60
+def 70
+efg 75
+ghi 90

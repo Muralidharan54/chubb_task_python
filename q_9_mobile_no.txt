@@ -1,0 +1,15 @@
+Client Name: John Doe
+Phone: (123)456-7890
+Email: john@example.com
+
+Client Name: Jane Smith
+Phone: 987-654-3210
+Email: jane@domain.com
+
+Client Name: Mike Brown
+Phone: (555)123-4567
+Email: mike@website.net
+
+Client Name: Lisa Ray
+Phone: 9998887777
+Email: lisa@service.org
